@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@google/genai": "^0.8.0",
+    "lucide-react": "^0.487.0",
+    "react-feather": "^2.0.10",
+    "react-markdown": "^10.1.0",
+    "react-spinners": "^0.15.0",
+    "remark-gfm": "^4.0.1",
+    "styled-components": "^6.1.17"
+  }
+}
